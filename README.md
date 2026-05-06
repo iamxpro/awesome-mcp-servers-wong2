@@ -326,6 +326,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[APISIX-MCP](https://github.com/api7/apisix-mcp)** - APISIX Model Context Protocol (MCP) server is used to bridge large language models (LLMs) with the APISIX Admin API, supporting querying and managing all resources in [Apache APISIX](https://github.com/apache/apisix).
 - **[Apple Notes](https://github.com/RafalWilinski/mcp-apple-notes)** - Talk with your Apple Notes
 - **[Apple Shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts)** - An MCP Server Integration with Apple Shortcuts
+- **[AstroWay MCP](https://github.com/astroway/astroway-mcp)** - Comprehensive astrology MCP backed by the [AstroWay Calculation API](https://api.astroway.info) — natal, synastry, transits, Vedic dashas, Tarot, Numerology, Human Design, AI horoscopes. Sub-arcsecond Swiss Ephemeris precision, 10k free credits/month.
 - **[AutoGen documentation](https://github.com/sykuang/mcp-autogen-doc)** - A Model Context Protocol (MCP) server that provides AI assistants with the ability to search and retrieve Microsoft AutoGen documentation.
 - **[AWS EC2 Pricing](https://github.com/trilogy-group/aws-pricing-mcp)** - Get up-to-date EC2 pricing information with one call. Fast. Powered by a pre-parsed AWS pricing catalogue.
 - **[Backup](https://github.com/hexitex/MCP-Backup-Server)** - Add smart Backup ability to coding agents like Windsurf, Cursor, Cluade Coder, etc
